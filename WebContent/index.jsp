@@ -95,7 +95,7 @@ _________________________________________________________ -->
                     <div class="container">
                         <div class="navbar-header">
 
-                            <a class="navbar-brand home" href="index.html">
+                            <a class="navbar-brand home" href="index.jsp">
                                 <img src="../img/logo-small.png" alt="Universal logo" class="hidden-xs hidden-sm">
                                 <img src="./img/logo-small.png" alt="Universal logo" class="visible-xs visible-sm"><span class="sr-only">Universal - go to homepage</span>
                             </a>
@@ -114,7 +114,7 @@ _________________________________________________________ -->
                                 <li class="dropdown active">
                                     <a href="javascript: void(0)" class="dropdown-toggle" data-toggle="dropdown">Home <b class="caret"></b></a>
                                     <ul class="dropdown-menu">
-                                        <li><a href="index.html">Option 1: Default Page</a>
+                                        <li><a href="index.jsp">Option 1: Default Page</a>
                                         </li>
                                         <li><a href="index2.html">Option 2: Application</a>
                                         </li>
@@ -235,7 +235,7 @@ _________________________________________________________ -->
                                                     <div class="col-sm-3">
                                                         <h5>Home</h5>
                                                         <ul>
-                                                            <li><a href="index.html">Option 1: Default Page</a>
+                                                            <li><a href="index.jsp">Option 1: Default Page</a>
                                                             </li>
                                                             <li><a href="index2.html">Option 2: Application</a>
                                                             </li>
