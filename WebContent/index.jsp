@@ -421,16 +421,16 @@ _________________________________________________________ -->
 
                 <div class="modal-content">
                     <div class="modal-header">
-                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                        <button type="button" class="close" data-dismiss="modal" name="loginid" aria-hidden="true">&times;</button>
                         <h4 class="modal-title" id="Login">Customer login</h4>
                     </div>
                     <div class="modal-body">
                         <form action="customer-orders.html" method="post">
                             <div class="form-group">
-                                <input type="text" class="form-control" id="email_modal" placeholder="email">
+                                <input type="text" class="form-control" id="email_modal" name="loginemail" placeholder="email">
                             </div>
                             <div class="form-group">
-                                <input type="password" class="form-control" id="password_modal" placeholder="password">
+                                <input type="password" class="form-control" id="password_modal" name="loginpassword" placeholder="password">
                             </div>
 
                             <p class="text-center">
