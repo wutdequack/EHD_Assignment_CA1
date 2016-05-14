@@ -499,10 +499,12 @@ _________________________________________________________ -->
                         <div class="item">
                             <div class="row">
                                 <div class="col-sm-5 right">
-                                    <h1>Design</h1>
+                                    <h1>Grand Theft Auto 5</h1>
+                                    <p> Now released
+                                    	<br> 11/5/2016</p>
                                     <ul class="list-style-none">
-                                        <li>Clean and elegant design</li>
-                                        <li>Full width and boxed mode</li>
+                                        <li>Description: </li>
+                                        <li>GTA Online Lowriders: Custom Classics is now available for PC. Expand your Lowrider collection with the Vapid Slamvan, the Dundreary Virgo Classic and the Faction Custom Donk.</li>
                                         <li>Easily readable Roboto font and awesome icons</li>
                                         <li>7 preprepared colour variations</li>
                                     </ul>
