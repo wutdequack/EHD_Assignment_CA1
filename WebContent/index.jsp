@@ -470,7 +470,7 @@ _________________________________________________________ -->
                                         <br />11/5/2016</p>
                                 </div>
                                 <div class="col-sm-7">
-                                    <img class="img-responsive" src="img/darksouls3.png"  alt="populargame1">
+                                    <img class="img-responsive" src="img/darksouls3.jpg"  alt="populargame1">
                                 </div>
                             </div>	
                         </div>
@@ -478,13 +478,16 @@ _________________________________________________________ -->
                             <div class="row">
 
                                 <div class="col-sm-7 text-center">
-                                    <img class="img-responsive" src="img/template-mac.png" alt="">
+                                    <img class="img-responsive" src="img/stardewvalley.jpg" alt="populargame2">
                                 </div>
 
                                 <div class="col-sm-5">
-                                    <h2>46 HTML pages full of features</h2>
+                                    <h2>Stardew Valley</h2>
+                                    <p> Now released
+                                    	<br> 11/5/2016</p>
                                     <ul class="list-style-none">
-                                        <li>Sliders and carousels</li>
+                                    	<li>Description: <li>
+                                        <li>You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home?</li>
                                         <li>4 Header variations</li>
                                         <li>Google maps, Forms, Megamenu, CSS3 Animations and much more</li>
                                         <li>+ 11 extra pages showing template features</li>
