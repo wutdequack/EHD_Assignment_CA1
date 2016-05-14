@@ -468,6 +468,13 @@ _________________________________________________________ -->
                                     <h1>Dark Souls 3</h1>
                                     <p>Now released
                                         <br />11/5/2016</p>
+                                        <ul class="list-style-none">
+                                    	<li>Description: <li>
+                                        <li>Dark Souls continues to push the boundaries with the latest, ambitious chapter in the critically-acclaimed and genre-defining series. Prepare yourself and Embrace The Darkness!</li>
+                                        <li>4 Header variations</li>
+                                        <li>Google maps, Forms, Megamenu, CSS3 Animations and much more</li>
+                                        <li>+ 11 extra pages showing template features</li>
+                                    </ul>
                                 </div>
                                 <div class="col-sm-7">
                                     <img class="img-responsive" src="img/darksouls3.jpg"  alt="populargame1">
