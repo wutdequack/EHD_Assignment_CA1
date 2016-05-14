@@ -508,7 +508,7 @@ _________________________________________________________ -->
                                     </ul>
                                 </div>
                                 <div class="col-sm-7">
-                                    <img class="img-responsive" src="img/template-easy-customize.png" alt="">
+                                    <img class="img-responsive" src="img/gta5.jpg" alt="populargame3">
                                 </div>
                             </div>
                         </div>
