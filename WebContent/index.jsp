@@ -524,10 +524,12 @@ _________________________________________________________ -->
                         <div class="item">
                             <div class="row">
                                 <div class="col-sm-7">
-                                    <img class="img-responsive" src="img/template-easy-code.png" alt="">
+                                    <img class="img-responsive" src="img/csgo.jpg" alt="populargame4">
                                 </div>
                                 <div class="col-sm-5">
-                                    <h1>Easy to customize</h1>
+                                    <h1>Counter Strike Global Offensive</h1>
+                                    <p> Now released
+                                    	<br> 11/5/2016</p>
                                     <ul class="list-style-none">
                                         <li>7 preprepared colour variations.</li>
                                         <li>Easily to change fonts</li>
