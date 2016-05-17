@@ -153,19 +153,13 @@ _________________________________________________________ -->
                                 </li>
                                 </ul>
                                 
-                                <ul class="nav navbar-nav navbar-right">
+                                 <ul class="nav navbar-nav navbar-right">
                                 <li class="dropdown active">
                                     <a href="javascript: void(0)" class="dropdown-toggle" data-toggle="dropdown">Home <b class="caret"></b></a>
                                     <ul class="dropdown-menu">
-                                        <li><a href="index.jsp">Option 1: Default Page</a>
+                                        <li><a href="index.jsp">Add Game</a>
                                         </li>
-                                        <li><a href="index2.html">Option 2: Application</a>
-                                        </li>
-                                        <li><a href="index3.html">Option 3: Startup</a>
-                                        </li>
-                                        <li><a href="index4.html">Option 4: Agency</a>
-                                        </li>
-                                        <li><a href="index5.html">Option 5: Portfolio</a>
+                                        <li><a href="index2.html">Add Genre</a>
                                         </li>
                                     </ul>
                                 </li>
