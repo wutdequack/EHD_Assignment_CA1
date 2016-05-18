@@ -235,7 +235,29 @@ _________________________________________________________ -->
                                     <p>
                                         <img src="img/logo.png" alt="">
                                     </p>
-
+							<%
+// Step 1: Load JDBC Driver 
+Class.forName("com.mysql.jdbc.Driver");
+// Step 2: Define Conection URL
+String connURL ="jdbc:mysql://cqr.softether.net/Jontus?user=root&password=EADBestModule";
+// Step 3: Establish connection to URL
+Connection conn = DriverManager.getConnection(connURL);
+                                    
+                                   
+	PreparedStatement pstmt = conn.prepareStatement("Select * from games where id_Game = 1");
+	
+	ResultSet rs = pstmt.executeQuery();
+	
+	String name = rs.getString("game_Title");
+	String date = rs.getString("release_Date");
+	String desc = rs.getString("desc");
+	
+		out.println("<h1>"+name+"</h1>");
+		out.println("<p>Now released<br/>"+date+"</p>");
+		out.println("<ul>");
+		out.println("<li>"+desc+"</li>");
+		out.println("</ul>");
+	%>
                                 </div>
                                 <div class="col-sm-7">
                                     <img class="img-responsive" src="img/darksouls3.jpg"  alt="populargame1">
