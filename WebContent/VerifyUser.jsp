@@ -15,7 +15,7 @@ String pwd = request.getParameter("pwd");
 //Step 1: Load JDBC Driver 
 	Class.forName("com.mysql.jdbc.Driver");
 	// Step 2: Define Conection URL
-	String connURL ="jdbc:mysql://cqr.softether.net/EAD_CA1?user=root&password=EADBestModule";
+	String connURL ="jdbc:mysql://cqr.softether.net/Jontus?user=root&password=EADBestModule";
 	// Step 3: Establish connection to URL
 	Connection conn = DriverManager.getConnection(connURL);
 
